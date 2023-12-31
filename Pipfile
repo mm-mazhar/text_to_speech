@@ -1,0 +1,21 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+torch = "==2.0.1"
+torchvision = "==0.15.2"
+torchaudio = "==2.0.2"
+tts = "==0.17.4"
+pandas = "*"
+openpyxl = "*"
+ipykernel = "*"
+tqdm = "*"
+pyfiglet = "*"
+
+[dev-packages]
+ipykernel = "*"
+
+[requires]
+python_version = "3.11"
