@@ -1,5 +1,11 @@
 # TEXT TO SPEECH
 
+<table style="width:100%" align="center">
+  <tr>
+    <td><img src="https://i.imgur.com/Ku7jCo0.jpg" width="200px" height=100px/></td>
+  </tr>
+</table>
+
 ### Overview
 
 The Text to Speech (TTS) project is a Python-based application that converts text data from an Excel file into speech audio files. The system uses a pre-trained TTS model, providing users with the ability to customize various parameters, such as the selected TTS model, encoder configuration, and speaker information.
