@@ -31,6 +31,10 @@ The Text to Speech (TTS) project is a Python-based application that converts tex
 - Users can run the project via the command line, specifying the desired text, TTS model, and output path.
 - The provided examples in the README showcase various command-line options, including multilingual models, voice conversion, and more.
 
+### Contributions
+
+Contributions to enhance the functionality, UI/UX, or add new features are welcome. Feel free to fork the repository, make your changes, and submit a pull request.
+
 # Quick Start Guide
 
 ### INSTALLATION
